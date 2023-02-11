@@ -19,5 +19,18 @@ The bulk photovoltaic effect (BPVE) is the process in which a steady photocurren
 ##### International Physicists' Tournament: Jumping Bean  
 This team proejct required us to study the movements of a 'jumping bean' toy and mathematically model and explain its movements. Due to the limited time and resources avaiable, we had to devise of an experimental setup with what materials were avaiable to the team. As such, the lack of proper equipments for the experiment may have resulted in less than expected results that did not confine strongly to the theoretical model that was formulated.  
   
-##### Experimental Studies  
-This folder consists of all the experiments I have conducted throughout my 4 year course in Physics. These experiments constitutes the seting up of experiments to collect data regarding physical phenemone. These data are then analyzed using excel to produce relationships and R-square values to prove the theories that were being tested. These demonstrates my comfortability with data and numbers as well as my ability to collect and clean data using Excel so as to generate meaningful insights.
+##### Miscellaneous Data Analysis Work
+This folder consists a selection of experiments I have conducted throughout my 4 year course in Physics. These experiments constitutes the seting up of experiments to collect data regarding physical phenomena. These data are then analyzed using Excel to produce relationships and R-square values to prove the theories that were being tested. These demonstrate my comfortability with data and numbers as well as my ability to collect and clean data using Excel so as to generate meaningful insights.  
+  
+a) Band Gap of Germanium with Cobra3  
+This experiment seeks to find the ebergy gap of a Germanium strip.  
+b) Faraday Effect  
+This experiment seeks tp determine the angle of rotation of the polarization-plane of the polarized light through a ﬂint glass rod as a function of the mean-ﬂux density using diﬀerent colored ﬁlters, calculate their corresponding Verdet’s constant in each case as well as evaluate Verdet’s constant as a function of the wavelength and the optical medium.  
+c) Cardanic Gyroscope  
+This experiment seeks to determine the precession frequency as a function of the torque and the angular velocity of the gyroscope as well as the nutational frequency as a function of the angular velocity and the moment of inertia.  
+d) Magnetic Moments  
+This experiment seeks to find the torque of the magnetic moment in a uniform magnetic field as a function of the strength of the magnetic field, as of the angle between the magnetic field in the magnetic moment.  
+e) Nuclear Magnetic Resonance  
+This experiment seeks to determine the line width of the flourine resonance, the g-factor of protons and flourine as well as demonstrate the nuclear magnetic resonance on protons and flourine in liquid and solid samples.  
+g) Zeeman Effect  
+This experiment seeks to determine the distance between two adjacent interference when there is no magnetic flux density, B, distance between two adjacent interference when there is no magnetic flux density for varying B as well as the relationship between magnetic flux density against current flowing through the coils. 
