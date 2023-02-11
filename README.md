@@ -6,6 +6,7 @@ I am a tenacious and self-driven Physics graduate from the National University o
 Found here: https://lookerstudio.google.com/s/jTQ7i8zdoJk
   
 Note: As public data is not updated in real-time, user has to change the time period to 'Last Quarter' to get information from the dashboard.  
+  
 This personal project involves the visualization of large volumes of raw data from BigQuery's public source Chicago taxi data and desigining a dashboard on Google Analytics from it. The aim of the dashboard is to display vital information that would be useful for a government offical looking to have a in-depth but quick rundown on the Chicago taxi industry.  
   
 Geospatial heat map of taxi demand were generated through the use of the GPS coordinates of the taxi's pickup location. High demand locations are O'Hare International Airport, the CHocago Loop and Lincoln Park. The dashboard can also be sorted based on companies as well as type of payment used.  
