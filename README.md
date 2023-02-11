@@ -20,7 +20,7 @@ The bulk photovoltaic effect (BPVE) is the process in which a steady photocurren
 This team project required us to study the movements of a 'jumping bean' toy and mathematically model and explain its movements. Due to the limited time and resources avaiable, we had to devise of an experimental setup with what materials were avaiable to the team. As such, the lack of proper equipments for the experiment may have resulted in less than expected results that did not confine strongly to the theoretical model that was formulated.  
   
 ##### Miscellaneous Data Analysis Work
-This folder consists a selection of experiments I have conducted throughout my 4 year course in Physics. These experiments constitutes the seting up of experiments to collect data regarding physical phenomena. These data are then analyzed using Excel to produce relationships and R-square values to prove the theories that were being tested. These demonstrate my comfortability with data and numbers as well as my ability to collect and clean data using Excel so as to generate meaningful insights.  
+This folder consists a selection of experiments I have conducted throughout my 4 years course in Physics. These experiments constitutes the seting up of experiments to collect data regarding physical phenomena. These data are then analyzed using Excel to produce relationships and R-square values to prove the theories that were being tested. These demonstrate my comfortability with data and numbers as well as my ability to collect and clean data using Excel so as to generate meaningful insights.  
   
 a) Band Gap of Germanium with Cobra3  
 This experiment seeks to find the ebergy gap of a Germanium strip. 
