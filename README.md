@@ -3,7 +3,8 @@
 I am a tenacious and self-driven Physics graduate from the National University of Singapore with practical experience in research and data analysis. For my final year project, I obtained one of the first few experimental data for the electrical property of a compound known as palladium diselenide. Seeking to contribute my analytical abilities, strong attention to details and proven leadership capabilities in an entry-level data analyst role where I can apply my research and analytical skills to provide strategic insights towards formulating government policies.  
 ### Projects  
 ##### Visualization of Chicago Traffic Data  
-Found here: https://lookerstudio.google.com/s/jTQ7i8zdoJk    
+Found here: https://lookerstudio.google.com/s/jTQ7i8zdoJk
+  
 Note: As public data is not updated in real-time, user has to change the time period to 'Last Quarter' to get information from the dashboard.  
 This personal project involves the visualization of large volumes of raw data from BigQuery's public source Chicago taxi data and desigining a dashboard on Google Analytics from it. The aim of the dashboard is to display vital information that would be useful for a government offical looking to have a in-depth but quick rundown on the Chicago taxi industry.  
   
