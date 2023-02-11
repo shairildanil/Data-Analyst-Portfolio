@@ -19,4 +19,5 @@ The bulk photovoltaic effect (BPVE) is the process in which a steady photocurren
 ##### International Physicists' Tournament: Jumping Bean  
 This team proejct required us to study the movements of a 'jumping bean' toy and mathematically model and explain its movements. Due to the limited time and resources avaiable, we had to devise of an experimental setup with what materials were avaiable to the team. As such, the lack of proper equipments for the experiment may have resulted in less than expected results that did not confine strongly to the theoretical model that was formulated.  
   
-##### Experimental Studies
+##### Experimental Studies  
+This folder consists of all the experiments I have conducted throughout my 4 year course in Physics. These experiments constitutes the seting up of experiments to collect data regarding physical phenemone. These data are then analyzed using excel to produce relationships and R-square values to prove the theories that were being tested. These demonstrates my comfortability with data and numbers as well as my ability to collect and clean data using Excel so as to generate meaningful insights.
